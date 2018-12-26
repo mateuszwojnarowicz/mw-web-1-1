@@ -6,4 +6,4 @@ Througout the project I use, and demonstrate knowledge, of these technologies:
  - CSS3
  - jQuery
 
-You can view the website here: [https://mateuszwojnarowicz.github.io/mw-web-1-1/](https://mateuszwojnarowicz.github.io/mw-web-1-1/)
+You can view the website here: [https://mateuszwojnarowicz.github.io/mw-web-1-1/index.html](https://mateuszwojnarowicz.github.io/mw-web-1-1/index.html)
