@@ -5,5 +5,7 @@ Througout the project I use, and demonstrate knowledge, of these technologies:
  - HTMML5
  - CSS3
  - jQuery
+ 
+ And also knowledge of Web Design.
 
 You can view the website here: [https://mateuszwojnarowicz.github.io/mw-web-1-1/](https://mateuszwojnarowicz.github.io/mw-web-1-1/)
